@@ -723,5 +723,5 @@ view: identifies {
       users.context_traits_user_id,
       users.context_device_name
     ]
-  }
+}
 }
